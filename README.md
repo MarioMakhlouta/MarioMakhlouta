@@ -10,6 +10,13 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Academic Projects (University of Balamand)
+- [University of Balamand Projects Repository](https://github.com/MarioMakhlouta/University-of-Balamand)
+    - **Delivery System (CSIS215)**: A Java-based delivery management system using OOP principles.
+    - **Scientific Calculator (ELEN202)**: A MATLAB-based scientific calculator for complex mathematical operations.
+    - **Arithmetic Logic Unit (CPEN202)**: A VHDL project for an ALU performing various arithmetic and logic operations using Quartus Prime.
+    - **Temperature Transducer (ELEN303)**: Circuit design using OP-AMPs for temperature sensing, simulated in Multisim.
+
 ## 42 Cursus
 - [piscine](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioPiscine) - Shell & C codes
 
