@@ -29,3 +29,7 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 ## Contacts
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-makhlouta/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96170086618) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mario.makhlouta/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariomakhlouta13@gmail.com)
+
+
+
+[![mmakhlou's 42 stats](https://badge.nimon.fr/api/v2/cm13gp84v2059201ltya5qa98b/stats?cursusId=21&coalitionId=446)](https://github.com/Nimon77/badge42)
