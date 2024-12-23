@@ -4,6 +4,8 @@
 ## About Me 
 Computer Engineering student at the University of Balamand (UOB) and also a Software Engineering student at 42 Beirut, specializing in various technology fields including computer science. Proficient in C, Java, and C++, with a dedication to expanding language proficiency. Skilled in Microsoft Office applications such as PowerPoint, Excel, and Word. Completed workshops in leadership and first aid with the Red Cross. Fluent in Arabic, proficient in French and English. Eager to gain hands-on experience through projects and continuously enhance both technical and soft skills. Additionally, I am Semicolon Academy’s ambassador at UOB.
 
+[**Mario Makhlouta - CV**](https://github.com/MarioMakhlouta/MarioMakhlouta/blob/main/Mario%20Makhlouta%20CV.pdf) 
+
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,git,vscode)](https://skillicons.dev)
 
@@ -43,7 +45,4 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 
 
 
-[![mmakhlou's 42 stats](https://badge.nimon.fr/api/v2/cm13gp84v2059201ltya5qa98b/stats?cursusId=21&coalitionId=446)](https://github.com/Nimon77/badge42)
-
-
-[**Mario Makhlouta - CV**](https://github.com/MarioMakhlouta/MarioMakhlouta/blob/main/Mario%20Makhlouta%20CV.pdf)  
+[![mmakhlou's 42 stats](https://badge.nimon.fr/api/v2/cm13gp84v2059201ltya5qa98b/stats?cursusId=21&coalitionId=446)](https://github.com/Nimon77/badge42) 
