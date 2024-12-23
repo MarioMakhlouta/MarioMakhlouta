@@ -44,3 +44,6 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 
 
 [![mmakhlou's 42 stats](https://badge.nimon.fr/api/v2/cm13gp84v2059201ltya5qa98b/stats?cursusId=21&coalitionId=446)](https://github.com/Nimon77/badge42)
+
+
+[**Mario Makhlouta - CV**](https://github.com/MarioMakhlouta/MarioMakhlouta/blob/main/Mario%20Makhlouta%20CV.pdf)  
