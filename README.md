@@ -13,6 +13,9 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
     - **Scientific Calculator (ELEN202)**: A MATLAB-based scientific calculator for complex mathematical operations.
     - **Arithmetic Logic Unit (CPEN202)**: A VHDL project for an ALU performing various arithmetic and logic operations using Quartus Prime.
     - **Temperature Transducer (ELEN303)**: Circuit design using OP-AMPs for temperature sensing, simulated in Multisim.
+    - **GUI Math Game (CPEN220)**: A Python-based GUI application generating random math problems, featuring a timer and score tracker.
+    - **Parking Gate Controller (CPEN213)**: A PIC18 microcontroller-based parking gate controller designed with MPLAB IDE and simulated in Proteus.
+    - **Phone Charger using Diodes (ELEN231)**: A Multisim project to design a phone charger circuit using diodes for voltage regulation.
 
 ## 42 Cursus
 - [piscine](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioPiscine) - Shell & C codes
