@@ -5,7 +5,7 @@
 Computer Engineering student at the University of Balamand (UOB) and also a Software Engineering student at 42 Beirut, specializing in various technology fields including computer science. Proficient in C, Java, and C++, with a dedication to expanding language proficiency. Skilled in Microsoft Office applications such as PowerPoint, Excel, and Word. Completed workshops in leadership and first aid with the Red Cross. Fluent in Arabic, proficient in French and English. Eager to gain hands-on experience through projects and continuously enhance both technical and soft skills. Additionally, I am Semicolon Academy’s ambassador at UOB.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,bash,git,vscode,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,git,vscode)](https://skillicons.dev)
 
 ## Academic Projects (University of Balamand)
 - [University of Balamand Projects Repository](https://github.com/MarioMakhlouta/University-of-Balamand)
@@ -17,13 +17,24 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
     - **Parking Gate Controller (CPEN213)**: A PIC18 microcontroller-based parking gate controller designed with MPLAB IDE and simulated in Proteus.
     - **Phone Charger using Diodes (ELEN231)**: A Multisim project to design a phone charger circuit using diodes for voltage regulation.
 
-## 42 Cursus
-- [piscine](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioPiscine) - Shell & C codes
 
-### Phase 1:
 
-- [libft](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone00/Project%200%20-%20Libft) - My C library
-- [printf](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%200%20-%20ft_printf) - Recreation of printf
+## **42 Cursus**  
+- [Piscine](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioPiscine) - Shell & C codes   
+
+#### **Milestone00**:  
+- [Libft](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone00/Project%200%20-%20Libft) - My custom C library.  
+
+#### **Milestone01**:  
+- [ft_printf](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%200%20-%20ft_printf) - Recreation of the standard `printf` function.  
+- [Get Next Line](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%201%20-%20get_next_line) - Reading a line from a file descriptor in C.  
+- [Born2beroot](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%202%20-%20Born2beroot) - System administration and virtualization project.  
+
+#### **Milestone02**:  
+- [Push Swap](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%200%20-%20push_swap) - Sorting algorithm visualization with minimal operations.  
+- [Pipex](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20C%20Cursus/Milestones/Milestone02/Project%201%20-%20pipex) - Unix pipeline recreation in C.  
+- [FdF](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%202%20-%20FdF) - 3D wireframe viewer using MinilibX.  
+
 
 
 ## Contacts
