@@ -9,9 +9,6 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,git,vscode)](https://skillicons.dev)
 
-Here’s an **updated version** of your **Academic Projects** section, including the **new projects** you added:
-
----
 
 ## **Academic Projects (University of Balamand)**
 
