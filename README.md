@@ -9,15 +9,24 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,git,vscode)](https://skillicons.dev)
 
-## Academic Projects (University of Balamand)
-- [University of Balamand Projects Repository](https://github.com/MarioMakhlouta/University-of-Balamand)
-    - **Delivery System (CSIS215)**: A Java-based delivery management system using OOP principles.
-    - **Scientific Calculator (ELEN202)**: A MATLAB-based scientific calculator for complex mathematical operations.
-    - **Arithmetic Logic Unit (CPEN202)**: A VHDL project for an ALU performing various arithmetic and logic operations using Quartus Prime.
-    - **Temperature Transducer (ELEN303)**: Circuit design using OP-AMPs for temperature sensing, simulated in Multisim.
-    - **GUI Math Game (CPEN220)**: A Python-based GUI application generating random math problems, featuring a timer and score tracker.
-    - **Parking Gate Controller (CPEN213)**: A PIC18 microcontroller-based parking gate controller designed with MPLAB IDE and simulated in Proteus.
-    - **Phone Charger using Diodes (ELEN231)**: A Multisim project to design a phone charger circuit using diodes for voltage regulation.
+Here’s an **updated version** of your **Academic Projects** section, including the **new projects** you added:
+
+---
+
+## **Academic Projects (University of Balamand)**
+
+* [University of Balamand Projects Repository](https://github.com/MarioMakhlouta/University-of-Balamand)
+
+  * **Delivery System (CSIS215)**: A Java-based delivery management system using OOP principles.
+  * **Scientific Calculator (ELEN202)**: A MATLAB-based scientific calculator for complex mathematical operations.
+  * **Arithmetic Logic Unit (CPEN202)**: A VHDL project for an ALU performing various arithmetic and logic operations using Quartus Prime.
+  * **Temperature Transducer (ELEN303)**: Circuit design using OP-AMPs for temperature sensing, simulated in Multisim.
+  * **GUI Math Game (CPEN220)**: A Python-based GUI application generating random math problems, featuring a timer and score tracker.
+  * **Parking Gate Controller (CPEN213)**: A PIC18 microcontroller-based parking gate controller designed with MPLAB IDE and simulated in Proteus.
+  * **Phone Charger using Diodes (ELEN231)**: A Multisim project to design a phone charger circuit using diodes for voltage regulation.
+  * **Design of a Combinational Lock (CPEN309)**: FPGA-based combinational lock design using Quartus Prime, implementing a combination sequence recognition system.
+  * **Bitonic Sorting (CPEN313)**: FPGA project using SystemVerilog to implement a parallel Bitonic Sort algorithm for 16-bit unsigned numbers with configurable input sizes.
+  * **Lifeblood Database (CSIS270)**: A comprehensive database project using MariaDB, SQL, and MS Access to manage blood donation records, reports, and forms.
 
 
 
