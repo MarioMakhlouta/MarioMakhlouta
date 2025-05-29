@@ -5,6 +5,7 @@
 Computer Engineering student at the University of Balamand (UOB) and also a Software Engineering student at 42 Beirut, specializing in various technology fields including computer science. Proficient in C, Python, Java, and C++, with a dedication to expanding language proficiency. Skilled in Microsoft Office applications such as PowerPoint, Excel, and Word. Completed workshops in leadership and first aid with the Red Cross. Fluent in Arabic, proficient in French and English. Eager to gain hands-on experience through projects and continuously enhance both technical and soft skills.
 
 **[My Portfolio Website](https://mmakhlou.com)**
+
 [**Mario Makhlouta - CV**](https://github.com/MarioMakhlouta/MarioMakhlouta/blob/main/Mario%20Makhlouta%20CV.pdf) 
 
 ### Skills
