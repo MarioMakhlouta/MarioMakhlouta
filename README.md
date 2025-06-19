@@ -45,7 +45,8 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 - [Pipex](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%201%20-%20pipex_minitalk) - Unix pipeline recreation in C.  
 - [FdF](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%202%20-%20so_long_FdF_fract_ol) - 3D wireframe viewer using MinilibX.  
 
-
+#### **Milestone03**:
+- [Philosophers](https://github.com/MarioMakhlouta/42_Philosophers) - Implementation of the classic Dining Philosophers problem using threads and mutexes to manage concurrency and deadlock scenarios
 
 ## Contacts
 
