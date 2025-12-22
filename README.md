@@ -26,6 +26,12 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
   * **Design of a Combinational Lock (CPEN309)**: FPGA-based combinational lock design using Quartus Prime, implementing a combination sequence recognition system.
   * **Bitonic Sorting (CPEN313)**: FPGA project using SystemVerilog to implement a parallel Bitonic Sort algorithm for 16-bit unsigned numbers with configurable input sizes.
   * **Lifeblood Database (CSIS270)**: A comprehensive database project using MariaDB, SQL, and MS Access to manage blood donation records, reports, and forms.
+  * **Linux Privilege Escalation (CPEN341)**: Enumeration and exploitation of misconfigurations and SUID binaries in Linux/Unix systems.
+  * **Microwave Timer System – PIC18F45K22 (CPEN305)**: Embedded system implementing keypad input, timers, interrupts, and display control.
+  * **PLC-Based Industrial Automation System (CPEN307)**: Machine control using ladder logic, sensors, and actuators in an industrial automation context.
+  * **OWASP Juice Shop Security Assessment (CPEN310)**: Web application reconnaissance and vulnerability analysis following OWASP Top 10.
+  * **SSB-AM Communication System (ELEN341)**: Simulation and analysis of a Single Sideband AM communication system using MATLAB/Simulink.
+  * **Pipelined Mini RISC-V Processor (CPEN314)**: Design of a pipelined processor implementing IF, ID, EX/MEM, and WB stages with hazard handling.
 
 
 
