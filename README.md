@@ -55,6 +55,16 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 - [Philosophers](https://github.com/MarioMakhlouta/42_Philosophers) - Implementation of the classic Dining Philosophers problem using threads and mutexes to manage concurrency and deadlock scenarios.
 - [Minishell](https://github.com/MarioMakhlouta/42_minishell) - Creation of a simple Shell (As beautiful as a Shell).
 
+#### **Milestone04**:
+
+- [NetPractice](https://github.com/MarioMakhlouta/42_NetPractice) - Networking fundamentals and TCP/IP configuration exercises.
+- [CPP00](https://github.com/MarioMakhlouta/42_CPP00) - Introduction to C++ (namespaces, classes, member functions).
+- [CPP01](https://github.com/MarioMakhlouta/42_CPP01) - Memory allocation, pointers, references, and file streams.
+- [CPP02](https://github.com/MarioMakhlouta/42_CPP02) - Ad-hoc polymorphism, operator overloading, canonical classes.
+- [CPP03](https://github.com/MarioMakhlouta/42_CPP03) - Inheritance and object-oriented design.
+- [CPP04](https://github.com/MarioMakhlouta/42_CPP04) - Subtype polymorphism, abstract classes, and interfaces.
+
+
 ## Contacts
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-makhlouta/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96170086618) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mario.makhlouta/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariomakhlouta13@gmail.com)
