@@ -32,7 +32,9 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
   * **OWASP Juice Shop Security Assessment (CPEN310)**: Web application reconnaissance and vulnerability analysis following OWASP Top 10.
   * **SSB-AM Communication System (ELEN341)**: Simulation and analysis of a Single Sideband AM communication system using MATLAB/Simulink.
   * **Pipelined Mini RISC-V Processor (CPEN314)**: Design of a pipelined processor implementing IF, ID, EX/MEM, and WB stages with hazard handling.
-
+  * **Transfer Learning in AI (CPEN349)**: Research project for AI for Engineers exploring transfer learning with pre-trained deep learning models on new downstream tasks.
+  * **Secure Multi-threaded Banking System (CSIS221)**: Operating Systems project implementing concurrent banking transactions with mutexes/semaphores to prevent race conditions.
+  * **Pulse Code Modulation – Simulink (ELEN306)**: Telecommunications Lab project simulating the PCM pipeline (sampling, quantization, encoding, reconstruction) in Simulink.
 
 
 ## **42 Cursus**  
