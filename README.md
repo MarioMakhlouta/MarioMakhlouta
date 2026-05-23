@@ -2,7 +2,7 @@
 # Mario Makhlouta
 
 ## About Me 
-Computer Engineering student at the University of Balamand (UOB) and also a Software Engineering student at 42 Beirut, specializing in various technology fields including computer science. Proficient in C, Python, Java, and C++, with a dedication to expanding language proficiency. Skilled in Microsoft Office applications such as PowerPoint, Excel, and Word. Completed workshops in leadership and first aid with the Red Cross. Fluent in Arabic, proficient in French and English. Eager to gain hands-on experience through projects and continuously enhance both technical and soft skills.
+Computer Engineering student at the University of Balamand (UOB) and also a Software Engineering student at 42 Beirut, specializing in various technology fields including computer science, cybersecurity, embedded systems, and AI. Proficient in C, Python, Java, and C++, with a dedication to expanding language proficiency. Completed a remote Cybersecurity Internship at Prodigy InfoTech (April 2026), and joining InMind Academy & InMind Company for a Robotics Internship & Training in Summer 2026. Completed the BS in Computer Engineering (Spring 2026) and continuing with the BE track at UOB for 2026–2027. Skilled in Microsoft Office applications such as PowerPoint, Excel, and Word. Completed workshops in leadership and first aid with the Red Cross. Fluent in Arabic, proficient in French and English. Eager to gain hands-on experience through projects and continuously enhance both technical and soft skills.
 
 **[My Portfolio Website](https://mmakhlou.com)**
 
