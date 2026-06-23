@@ -65,7 +65,23 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 - [CPP02](https://github.com/MarioMakhlouta/42_CPP02) - Ad-hoc polymorphism, operator overloading, canonical classes.
 - [CPP03](https://github.com/MarioMakhlouta/42_CPP03) - Inheritance and object-oriented design.
 - [CPP04](https://github.com/MarioMakhlouta/42_CPP04) - Subtype polymorphism, abstract classes, and interfaces.
+- [Cub3D](https://github.com/MarioMakhlouta/42_Cub3D) - Raycasting-based 3D game engine inspired by Wolfenstein 3D, developed in C using MiniLibX. Features texture mapping, player movement, collision detection, map parsing, and real-time rendering.
 
+---
+
+## Cybersecurity Internship – Prodigy InfoTech (April 2026)
+
+Completed a remote Cybersecurity Internship at Prodigy InfoTech, working on practical cybersecurity projects covering cryptography, password security, network analysis, and secure communications.
+
+### Internship Projects
+
+* [PRODIGY_CS_01](https://github.com/MarioMakhlouta/PRODIGY_CS_01) - Caesar Cipher Encryption & Decryption tool implementing classical cryptographic techniques.
+* [PRODIGY_CS_02](https://github.com/MarioMakhlouta/PRODIGY_CS_02) - Image Encryption Tool using pixel manipulation techniques for secure image transformation.
+* [PRODIGY_CS_03](https://github.com/MarioMakhlouta/PRODIGY_CS_03) - Password Strength Checker evaluating password complexity and security best practices.
+* [PRODIGY_CS_04](https://github.com/MarioMakhlouta/PRODIGY_CS_04) - Simple Keylogger demonstrating keyboard event monitoring and secure logging concepts in a controlled educational environment.
+* [PRODIGY_CS_05](https://github.com/MarioMakhlouta/PRODIGY_CS_05) - Network Packet Analyzer using packet capture and protocol inspection techniques for network traffic analysis.
+
+---
 
 ## Contacts
 
