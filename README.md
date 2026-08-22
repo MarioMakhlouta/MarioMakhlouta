@@ -1,18 +1,18 @@
-
 # Mario Makhlouta
 
-## About Me 
-Computer Engineering student at the University of Balamand (UOB) and also a Software Engineering student at 42 Beirut, specializing in various technology fields including computer science, cybersecurity, embedded systems, and AI. Proficient in C, Python, Java, and C++, with a dedication to expanding language proficiency. Completed a remote Cybersecurity Internship at Prodigy InfoTech (April 2026), and joining InMind Academy & InMind Company for a Robotics Internship & Training in Summer 2026. Completed the BS in Computer Engineering (Spring 2026) and continuing with the BE track at UOB for 2026–2027. Skilled in Microsoft Office applications such as PowerPoint, Excel, and Word. Completed workshops in leadership and first aid with the Red Cross. Fluent in Arabic, proficient in French and English. Eager to gain hands-on experience through projects and continuously enhance both technical and soft skills.
+## About Me
+Computer Engineering graduate (BS, University of Balamand — May 2026), now continuing with the BE track at UOB (2026–2027). Completed the 42 Beirut Software Engineering curriculum through Milestone 4 (2024–August 2026). Specializing in embedded systems, cybersecurity, robotics, and AI. Proficient in C, C++, Python, Java, and Bash. Completed a remote Cybersecurity Internship at Prodigy InfoTech (April 2026) and a Robotics Internship & Training at InMind Academy / InMind Company (July–August 2026). Completed workshops in leadership and first aid with the Red Cross. Fluent in Arabic, proficient in French and English. Eager to gain hands-on experience through projects and continuously enhance both technical and soft skills.
 
 **[My Portfolio Website](https://mmakhlou.com)**
 
-[**Mario Makhlouta - CV**](https://github.com/MarioMakhlouta/MarioMakhlouta/blob/main/Mario%20Makhlouta%20CV.pdf) 
+[**Mario Makhlouta - CV**](https://github.com/MarioMakhlouta/MarioMakhlouta/blob/main/Mario%20Makhlouta%20CV.pdf)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,git,vscode)](https://skillicons.dev)
 
+---
 
-## **Academic Projects (University of Balamand)**
+## Academic Projects (University of Balamand)
 
 * [University of Balamand Projects Repository](https://github.com/MarioMakhlouta/University-of-Balamand)
 
@@ -36,29 +36,30 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
   * **Secure Multi-threaded Banking System (CSIS221)**: Operating Systems project implementing concurrent banking transactions with mutexes/semaphores to prevent race conditions.
   * **Pulse Code Modulation – Simulink (ELEN306)**: Telecommunications Lab project simulating the PCM pipeline (sampling, quantization, encoding, reconstruction) in Simulink.
 
+---
 
-## **42 Cursus**  
-- [Piscine](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioPiscine) - Shell & C codes   
+## 42 Beirut Cursus *(2024 – August 2026 · Completed Milestone 4)*
 
-#### **Milestone00**:  
-- [Libft](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone00/Project%200%20-%20Libft) - My custom C library.  
+- [Piscine](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioPiscine) - Shell & C codes
 
-#### **Milestone01**:  
-- [ft_printf](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%200%20-%20ft_printf) - Recreation of the standard `printf` function.  
-- [Get Next Line](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%201%20-%20get_next_line) - Reading a line from a file descriptor in C.  
-- [Born2beroot](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%202%20-%20Born2beroot) - System administration and virtualization project.  
+#### Milestone 0:
+- [Libft](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone00/Project%200%20-%20Libft) - My custom C library.
 
-#### **Milestone02**:  
-- [Push Swap](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%200%20-%20push_swap) - Sorting algorithm visualization with minimal operations.  
-- [Pipex](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%201%20-%20pipex_minitalk) - Unix pipeline recreation in C.  
-- [FdF](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%202%20-%20so_long_FdF_fract_ol) - 3D wireframe viewer using MinilibX.  
+#### Milestone 1:
+- [ft_printf](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%200%20-%20ft_printf) - Recreation of the standard `printf` function.
+- [Get Next Line](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%201%20-%20get_next_line) - Reading a line from a file descriptor in C.
+- [Born2beroot](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone01/Project%202%20-%20Born2beroot) - System administration and virtualization project.
 
-#### **Milestone03**:
+#### Milestone 2:
+- [Push Swap](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%200%20-%20push_swap) - Sorting algorithm visualization with minimal operations.
+- [Pipex](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%201%20-%20pipex_minitalk) - Unix pipeline recreation in C.
+- [FdF](https://github.com/MarioMakhlouta/42Beirut/tree/main/MarioStudent/C%20Cursus/Milestones/Milestone02/Project%202%20-%20so_long_FdF_fract_ol) - 3D wireframe viewer using MinilibX.
+
+#### Milestone 3:
 - [Philosophers](https://github.com/MarioMakhlouta/42_Philosophers) - Implementation of the classic Dining Philosophers problem using threads and mutexes to manage concurrency and deadlock scenarios.
 - [Minishell](https://github.com/MarioMakhlouta/42_minishell) - Creation of a simple Shell (As beautiful as a Shell).
 
-#### **Milestone04**:
-
+#### Milestone 4:
 - [NetPractice](https://github.com/MarioMakhlouta/42_NetPractice) - Networking fundamentals and TCP/IP configuration exercises.
 - [CPP00](https://github.com/MarioMakhlouta/42_CPP00) - Introduction to C++ (namespaces, classes, member functions).
 - [CPP01](https://github.com/MarioMakhlouta/42_CPP01) - Memory allocation, pointers, references, and file streams.
@@ -69,7 +70,19 @@ Computer Engineering student at the University of Balamand (UOB) and also a Soft
 
 ---
 
-## Cybersecurity Internship – Prodigy InfoTech (April 2026)
+## Robotics Internship – InMind Academy / InMind Company *(July – August 2026)*
+
+Completed a two-month combined training and internship program in the robotics track at InMind Academy and InMind Company. Covered robotics fundamentals, embedded control, ROS2, IMU pipelines, and object detection systems. Earned dual certification from InMind Academy (training) and InMind Company (internship).
+
+### Sample Homework & Tasks
+
+* [robotics-hw2-MarioMakhlouta](https://github.com/MarioMakhlouta/robotics-hw2-MarioMakhlouta) - InMind Academy Session 2 homework — robotics fundamentals exercises.
+* [robotics-hw5-MarioMakhlouta](https://github.com/MarioMakhlouta/robotics-hw5-MarioMakhlouta) - ROS2 IMU pipeline — processes and publishes IMU (Inertial Measurement Unit) sensor data using ROS2 in C++.
+* [robotics-hw6-MarioMakhlouta](https://github.com/MarioMakhlouta/robotics-hw6-MarioMakhlouta) - ROS2 perception system — object detection action server with dynamic confidence threshold adjustment and detection result publishing.
+
+---
+
+## Cybersecurity Internship – Prodigy InfoTech *(April 2026)*
 
 Completed a remote Cybersecurity Internship at Prodigy InfoTech, working on practical cybersecurity projects covering cryptography, password security, network analysis, and secure communications.
 
@@ -86,4 +99,3 @@ Completed a remote Cybersecurity Internship at Prodigy InfoTech, working on prac
 ## Contacts
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-makhlouta/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96170086618) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mario.makhlouta/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariomakhlouta13@gmail.com)
-
